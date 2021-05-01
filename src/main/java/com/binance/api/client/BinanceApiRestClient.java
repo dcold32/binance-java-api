@@ -1,4 +1,4 @@
-package com.binance.api.client;
+package com.mainstream.api.client;
 
 import com.binance.api.client.domain.account.Account;
 import com.binance.api.client.domain.account.DepositAddress;
